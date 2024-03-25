@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/PO0qo8L.png" />
+<img align="center" src="https://i.imgur.com/1tpEuk2.jpeg" />
 
 <h1 align="center">Comet Client</h1>
 <h3 align="center">
