@@ -25,7 +25,7 @@ A nice, open-sourced, Fabric related client for Minecraft.
 -   [tweodore_](https://github.com/heyitsleo)
 -   [asicalug](https://github.com/Asicalug)
 -   [aldess](https://github.com/aldessscratch)
--   [quantum](https://github.com/Quantamyt)
+-   [quantam](https://github.com/Quantamyt)
 
 
 
