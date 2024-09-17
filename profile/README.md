@@ -2,7 +2,7 @@
 
 <h1 align="center">Comet Client</h1>
 <h3 align="center">
-A nice, open-sourced, Fabric related client for Minecraft.
+A nice, modernized, client for Minecraft.
 </h3>
 
 
@@ -13,7 +13,7 @@ A nice, open-sourced, Fabric related client for Minecraft.
   - 🛠️ website: [click here](https://github.com/CometClient/website)
   - ☄️ backend (js): [click here](https://github.com/CometClient/backend)
 
-**We are aware you can't see these repositories as of March 20th, 2024.**
+**We are aware you can't see these repositories: this is due to us being in development.**
 
 ## 🧱 Credits
 
