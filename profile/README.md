@@ -2,20 +2,15 @@
 
 <h1 align="center">Comet Client</h1>
 <h3 align="center">
-A nice, modernized, client for Minecraft.
+providing simplicity, for minecraft clients.
 </h3>
 
 
-
-## 🛠️ Click URLs to redirect:
-  - ♻️ launcher: [click here](https://github.com/CometClient/launcher)
-  - 🦺 comet support: [click here](https://github.com/CometClient/support-bot)
-  - 🛠️ website: [click here](https://github.com/CometClient/website)
-  - ☄️ backend (js): [click here](https://github.com/CometClient/backend)
-
-**We are aware you can't see these repositories: this is due to us being in development.**
+## 🛠️ Redirect:
+  - ♻️ website: [click here](https://cometmc.vercel.app)
 
 ## 🧱 Credits
+<p align=center>
 
 -   [thororen](https://github.com/thororen1234)
 -   [benjisqt](https://github.com/benjisqt)
@@ -26,6 +21,7 @@ A nice, modernized, client for Minecraft.
 -   [asicalug](https://github.com/Asicalug)
 -   [aldess](https://github.com/aldessscratch)
 -   [quantam](https://github.com/Quantamyt)
+</p>
 
 
 
