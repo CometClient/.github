@@ -21,6 +21,7 @@ providing simplicity, for minecraft clients.
 -   [asicalug](https://github.com/Asicalug)
 -   [aldess](https://github.com/aldessscratch)
 -   [quantam](https://github.com/Quantamyt)
+-   [syxles](https://github.com/Syxless)
 </p>
 
 
