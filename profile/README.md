@@ -49,4 +49,7 @@
   <a href="https://github.com/Syxless">
     <img src="https://img.shields.io/badge/syxles-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/Jonnite">
+    <img src="https://img.shields.io/badge/jonnite-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
