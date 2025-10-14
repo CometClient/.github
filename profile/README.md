@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Comet Client</h1>
-<p align="center">Providing simplicity for Minecraft clients.</p>
+<p align="center">Providing simplicity for Minecraft whilst being lightweight.</p>
 
 <p align="center">
   <a href="https://cometmc.vercel.app">
@@ -19,11 +19,24 @@
 ## Credits <a name="credits"></a>
 
 <p align="center">
-  <a href="https://github.com/thororen1234">
-    <img src="https://img.shields.io/badge/thororen-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/raydreams">
+    <img src="https://img.shields.io/badge/ray-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/benjisqt">
     <img src="https://img.shields.io/badge/benjisqt-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Syxless">
+    <img src="https://img.shields.io/badge/syxles-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jonnite">
+    <img src="https://img.shields.io/badge/jonnite-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href=" https://github.com/mrrpmeowfurry">
+    <img src="https://img.shields.io/badge/evelyn-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/thororen1234">
+    <img src="https://img.shields.io/badge/thororen-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/naibuu">
     <img src="https://img.shields.io/badge/naibuu-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -34,9 +47,6 @@
   <a href="https://github.com/tbhgodpro">
     <img src="https://img.shields.io/badge/skull%20emoji-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/heyitsleo">
-    <img src="https://img.shields.io/badge/tweodore__-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://github.com/Asicalug">
     <img src="https://img.shields.io/badge/asicalug-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -45,11 +55,5 @@
   </a>
   <a href="https://github.com/Quantamyt">
     <img src="https://img.shields.io/badge/quantam-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Syxless">
-    <img src="https://img.shields.io/badge/syxles-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jonnite">
-    <img src="https://img.shields.io/badge/jonnite-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
