@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/erjUHeX.png" alt="Comet Client"/>
+  <img src="https://i.imgur.com/wjulXh6.png" alt="Comet Client"/>
 </p>
 
 <h1 align="center">Comet Client</h1>
