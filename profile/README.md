@@ -2,58 +2,37 @@
   <img src="https://i.imgur.com/wjulXh6.png" alt="Comet Client"/>
 </p>
 
-<h1 align="center">Comet Client</h1>
-<p align="center">Providing simplicity for Minecraft whilst being lightweight.</p>
+<p align="center">
+  <a href="https://github.com/haaku-tv"><img src="https://img.shields.io/github/stars/CometClient?affiliations=OWNER&style=flat-square&logo=github&logoColor=E85897&label=Stars&labelColor=0d0d0d&color=D04C8D" alt="Stars"></a> <a href="https://github.com/haaku-tv"><img src="https://img.shields.io/github/followers/CometClient?style=flat-square&logo=github&logoColor=E85897&label=Followers&labelColor=0d0d0d&color=D04C8D" alt="Followers"></a>
+</p>
+
+<h3 align="center">Comet Client</h3>
 
 <p align="center">
-  <a href="https://cometmc.vercel.app">
-    <img src="https://img.shields.io/badge/Visit%20Website-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="#credits">
-    <img src="https://img.shields.io/badge/View%20Credits-28a745?style=for-the-badge&logo=github&logoColor=white" alt="Credits"/>
-  </a>
+  Customize the un-customizable, Only with Comet.
 </p>
+
+<p align="center"><a href="https://cometclient.dev?utm_source=https://github.com">cometclient.dev</a></p>
 
 ---
 
-## Credits <a name="credits"></a>
+> **Comet**: “a celestial object made of ice, dust, and rock that travels through space, often leaving a glowing tail.”
+> A symbol of exploration, individuality, and leaving your own mark, just like Comet Client.
+
+---
+
+
+<div align="center">
+<h3 align="center">Quick Links</h3>
+
+| URL | Description |
+|------------|-------------|
+| [Main Website](https://cometclient.dev?utm_source=https://github.com) | Main Website to see all the news, updates, latest changes, and showcase to Comet. |
+| [Discord](https://discord.gg/94qF3vEGeh) | Join the Discord Server to socialize, learn more, and grow with the amazing community. |
+</div>
+
+---
 
 <p align="center">
-  <a href="https://github.com/raydreams">
-    <img src="https://img.shields.io/badge/ray-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/benjisqt">
-    <img src="https://img.shields.io/badge/benjisqt-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Syxless">
-    <img src="https://img.shields.io/badge/syxles-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jonnite">
-    <img src="https://img.shields.io/badge/jonnite-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href=" https://github.com/mrrpmeowfurry">
-    <img src="https://img.shields.io/badge/evelyn-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/thororen1234">
-    <img src="https://img.shields.io/badge/thororen-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/naibuu">
-    <img src="https://img.shields.io/badge/naibuu-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/domi-btnr">
-    <img src="https://img.shields.io/badge/domi-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tbhgodpro">
-    <img src="https://img.shields.io/badge/skull%20emoji-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Asicalug">
-    <img src="https://img.shields.io/badge/asicalug-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/aldessscratch">
-    <img src="https://img.shields.io/badge/aldess-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Quantamyt">
-    <img src="https://img.shields.io/badge/quantam-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <sub>Originally created by <a href="https://github.com/haaku-tv">Haaku-TV</a>.</sub>
 </p>
